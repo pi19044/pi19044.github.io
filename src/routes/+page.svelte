@@ -1,7 +1,6 @@
 <script>
 	import * as Fluent from "fluent-svelte";
 	import "fluent-svelte/theme.css";
-	import { base } from '$app/paths';
 </script>
 
 <style>
@@ -89,9 +88,9 @@
 <div>
 	<nav>
 		<a href="/" class="logo"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimages.wallpapersden.com%2Fimage%2Fdownload%2Flofoten-norway_bGdlbGuUmZqaraWkpJRobWllrWdma2U.jpg&f=1&nofb=1&ipt=02df2dad3d3484a9cc57c13c9b2c065f1bdd44710fe34cab98dee464f5c8a884&ipo=images" alt="Xandaland's pfp"></a>
-		<Fluent.Button href="{base}/" style="margin-right: 14px;">Home</Fluent.Button>
-		<Fluent.Button href="{base}/plans" style="margin-right: 14px;" variant="hyperlink">Plans</Fluent.Button>
-		<Fluent.Button href="{base}/contact" variant="hyperlink">Contact me</Fluent.Button>
+		<Fluent.Button href="/" style="margin-right: 14px;">Home</Fluent.Button>
+		<Fluent.Button href="/plans" style="margin-right: 14px;" variant="hyperlink">Plans</Fluent.Button>
+		<Fluent.Button href="/contact" variant="hyperlink">Contact me</Fluent.Button>
 	</nav>
 	<main>
 		<h1>Welcome to my website</h1>
