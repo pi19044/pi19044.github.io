@@ -24,6 +24,11 @@
 		animation: ease-in-out font-weight;
 	}
 
+	nav {
+		background: var(--fds-solid-background-base);
+		border-top: 1px solid rgba(205, 205, 205, 0.25);
+	}
+
 	nav a {
 		text-decoration: none;
 		color: white;
@@ -37,11 +42,6 @@
 		margin-top: 5px;
 		margin-left: 5px;
 		margin-right: 5px;
-	}
-
-	nav {
-		background: var(--fds-solid-background-base);
-		border-top: 1px solid rgba(205, 205, 205, 0.25);
 	}
 
 	main {
