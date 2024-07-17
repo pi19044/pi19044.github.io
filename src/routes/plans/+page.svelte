@@ -24,7 +24,7 @@
 
 	nav {
 		background: var(--fds-solid-background-base);
-		border-top: 1px solid rgba(205, 205, 205, 0.25);
+		border-bottom: 1px solid rgba(205, 205, 205, 0.25);
 	}
 
 	nav a {
