@@ -98,5 +98,8 @@
 		<h5 style="margin: 0px; margin-top: 10px">Powered by:</h5>
 		<Fluent.Button href="https://kit.svelte.dev" variant="hyperlink" style="margin-top: 10px; margin-bottom: 10px">SvelteKit</Fluent.Button>
 		<Fluent.Button href="https://fluent-svelte.vercel.app/" variant="hyperlink" style="margin-bottom: 10px">Fluent Svelte</Fluent.Button>
+		<h5>Made and contributed by:</h5>
+                <Fluent.Button href="/" variant="hyperlink" style="margin-top: 10px; margin-bottom: 10px">PrelevatedInsider19044</Fluent.Button>
+		<Fluent.Button href="https://user0.is-a.dev/" variant="hyperlink" style="margin-top: 10px; margin-bottom: 10px">User0</Fluent.Button>
 	</footer>
 </div>
