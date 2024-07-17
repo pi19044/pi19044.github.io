@@ -39,6 +39,11 @@
 		margin-right: 5px;
 	}
 
+	nav {
+		background: var(--fds-solid-background-base);
+		border-top: 1px solid rgba(205, 205, 205, 0.25);
+	}
+
 	main {
 		display: block;
 		padding: 85px 65px;
