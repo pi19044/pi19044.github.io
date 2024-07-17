@@ -9,7 +9,6 @@
 		display: flex;
 		justify-content: left;
 		align-items: center;
-		border-bottom: 2px solid #333;
 		padding: 8px;
 	}
 
