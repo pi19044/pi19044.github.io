@@ -29,6 +29,11 @@
 		letter-spacing: 10px;
 	}
 
+	nav {
+		background: var(--fds-solid-background-base);
+		border-top: 1px solid rgba(205, 205, 205, 0.25);
+	}
+
 	nav a {
 		text-decoration: none;
 		color: white;
