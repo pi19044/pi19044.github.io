@@ -96,7 +96,7 @@
         	<Fluent.Button onClick="window.open('https://twitter.com/PrelevatedIns', '_blank')">Twitter</Fluent.Button>
 		<Fluent.Button onClick="window.open('mailto:membermadde.insiddev25120@hotmail.com', '_blank')">Hotmail</Fluent.Button>
 		<Fluent.Button onClick="window.open('https://github.com/pi19044', '_blank')">GitHub</Fluent.Button>
-		<Fluent.Button onClick="window.open('https://www.guilded.gg/xandaland', '_blank')">Guilded</Fluent.Button>
+		<Fluent.Button onClick="window.open('https://discord.gg/darwQ3ZMXX', '_blank')">Discord</Fluent.Button>
 	</main>
 	<footer>
 		<h5 style="margin: 0px; margin-top: 10px">Powered by:</h5>
