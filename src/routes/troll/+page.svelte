@@ -87,6 +87,7 @@
 		<Fluent.Button href="/contact" variant="hyperlink">Contact me</Fluent.Button>
 	</nav>
 	<main>
-		<p>WINDOWS MADARCHOD, IF YOU ARE SEEING THIS, I GOT YOUR IP AND YOU ARE ABOUT TO BE DEAD MEAT</p>
+		<p>WINDOWS 8 MADARCHOD, IF YOU ARE SEEING THIS, I GOT YOUR IP AND YOU ARE ABOUT TO BE DEAD MEAT</p>
+        </main>
   </main>
 </div>
