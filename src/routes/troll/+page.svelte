@@ -87,6 +87,6 @@
 		<Fluent.Button href="/contact" variant="hyperlink">Contact me</Fluent.Button>
 	</nav>
 	<main>
-		<p>SHAURYA SEXENA MADARCHOD, IF YOU ARE SEEING THIS, I GOT YOUR IP AND YOU ARE ABOUT TO BE DEAD MEAT</p>
+		<p>WIN64 KEVIN RAIRANEOANRAOSM OSMDVPAJBPWARIZKI MOTHERFUCKER, IF YOU ARE SEEING THIS, I GOT YOUR IP AND YOU ARE ABOUT TO BE DEAD MEAT</p>
         </main>
 </div>
